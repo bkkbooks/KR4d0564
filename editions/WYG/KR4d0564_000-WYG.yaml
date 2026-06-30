@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0564/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0564_WYG_000-1a, image: WYG1218/WYG1218-0563a.png}
+body:
+  text: 梧溪集别集類四元提要臣等謹案梧溪集七巻元王逢撰逢字原吉自號席帽山人江陰人當至正間被薦不就避地吳淞江築室上海之烏泥涇適張氏據吳東南之士咸為之用逢獨髙蹈逺引及洪武初徵召甚迫又以老疾辭逢少學詩于陳漢卿得虞集之傳才氣宏敞而不失謹嚴集中載宋元之際忠孝節義之事甚備每於詩首作小序以標其崖略足補史傳所未及葢其微意所寓也是書傳本差稀王士禎屬其鄉人楊名時訪得明末江陰老儒周榮起手録本乃盛傳于世榮起號硯農究心六書毛晉汲古閣刋板多其所校定云乾隆四十四年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:49b75858f0f964ccbdf30de649d0c0e18ef2e09bdc21d09f899958ab0d1bf05c
+metadata:
+  title: 梧溪集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:14:37.952559'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0564/KR4d0564_000.txt
+hash: sha256:968faf9c46dd92e36ddff0643e742cf4aab89a4028cc91b87c285c1755be5dfb
